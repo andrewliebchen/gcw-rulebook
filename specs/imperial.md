@@ -10,7 +10,7 @@
 
 ## Special
 
-### ### Death Star III
+### Death Star III
 Cost: 18,000 KCs
 Production Time: 180 Days
 Diameter: 16 kilometers
@@ -34,7 +34,7 @@ Notes: The Death Star III is an ambitious attempt to recreate one of the galaxy'
 
 ## Capital Ships
 
-Super Star Destroy### er (SSD)
+### Super Star Destroyer (SSD)
 Type: Armada-class
 Cost: 9000 KCs
 Production time: 90 Days
@@ -68,8 +68,8 @@ Onboard Units:
 90 Speeder Bikes
 3 Prebricated Imperial Fleet Depot
 Notes: Designed to effectively be three ISDs in one ship, the Armada-class is a formidable fleet-stopping command ship that is the last bastion of the massive Imperial war machine. This ship comes equipped with a HOLONET Transceiver, and (1) is prestationed at Coruscant as part of it's PDF.
-###
-Imperial-II Star Destroyer (ISD-II)
+
+### Imperial-II Star Destroyer (ISD-II)
 Cost: 2300 KCs
 Production time: 23 Days
 Length: 1600 meters
@@ -94,8 +94,8 @@ Onboard Units:
 90 GAVs
 1 Prefabricated Imperial Fleet Depot
 Notes: The most powerful ship-of-the-line in the galaxy. Capable of taking on entire fleets or planets by itself. Comes equipped with a HOLONET Transceiver.
-###
-Imperial Star Destroyer (ISD)
+
+### Imperial Star Destroyer (ISD)
 Cost: 1900 KCs
 Production time: 19 Days
 Length: 1600 meters
@@ -118,8 +118,8 @@ Onboard Units:
 1000 Infantry Squads
 60 GAVs
 1 Prebricated Imperial Fleet Depot
-###
-Victory-II Star Destroyer (VSD-II)
+
+### Victory-II Star Destroyer (VSD-II)
 Cost: 1100 KCs
 Production time: 11 Days
 Length: 900 meters
@@ -142,8 +142,8 @@ Onboard Units:
 500 Infantry Squads
 30 GAVs
 Notes: Can enter atmosphere and make planetary landings.
-###
-Victory Star Destroyer (VSD)
+
+### Victory Star Destroyer (VSD)
 Cost: 1000 KCs
 Production time: 10 Days
 Length: 900 meters
@@ -166,8 +166,8 @@ Onboard Units:
 200 Infantry Squads
 12 GAVs
 Notes: Can enter atmosphere and make planetary landings.
-###
-Acclamator Assault Ship (ACC)
+
+### Acclamator Assault Ship (ACC)
 Cost: 1200 KCs
 Production time: 12 Days
 Length: 750 meters
@@ -190,8 +190,7 @@ Onboard Units:
 60 GAVs
 Notes: Can enter atmosphere and make planetary landings.
 
-###
-Vindicator Heavy Cruiser (VHC)
+### Vindicator Heavy Cruiser (VHC)
 Cost: 700 KCs
 Production Time: 7 Days
 Length: 600 meters
@@ -212,8 +211,8 @@ Onboard Units:
 6 Auxiliary Craft
 40 Infantry Squads
 Notes: May enter the atmosphere. The Vindicator Heavy Cruiser is the same ship platform that the Interdictor-class is built from. Informally classified as an intermediate warship, the Vindicator-class is capable of handling missions where either a Star Destroyer is too big or a secondary ship is too small or poorly equipped.
-###
-Strike-class Medium Cruiser (STRK)
+
+### Strike-class Medium Cruiser (STRK)
 Cost: 500 KCs
 Production time: 5 Days
 Length: 450 meters
@@ -235,8 +234,8 @@ Onboard Units:
 2 Landing Barges
 200 Infantry Squads
 12 GAVs
-###
-Imperial Dreadnaught (Imp/DREAD)
+
+### Imperial Dreadnaught (Imp/DREAD)
 Cost: 700 KCs
 Production Time: 7 Days
 Length: 700 meters
@@ -258,8 +257,8 @@ Onboard Units:
 12 Auxiliary Transports
 300 Infantry Squads
 Notes: Can enter atmosphere and make planetary landings.
-###
-Nebulon-B Imperial Frigate (NEB/I)
+
+### Nebulon-B Imperial Frigate (NEB/I)
 Cost: 300 KCs
 Production Time: 3 Days
 Length: 300 meters
@@ -279,8 +278,8 @@ Onboard Units:
 2 Auxiliary Craft
 External Units:
 1 Auxiliary Craft
-###
-Interdictor Heavy Cruiser (INT)
+
+### Interdictor Heavy Cruiser (INT)
 Cost: 600 KCs
 Production time: 5 Days
 Length: 600 meters
@@ -299,8 +298,8 @@ Onboard Units:
 2 TIE Starfighter Squadrons
 6 Auxiliary Craft
 Notes: When Gravity Well generators are online, this ship cannot move or attack. Furthermore, all ships exiting hyperspace must do so in a grid space adjacent to the Interdictor; all ships desiring to enter hyperspace must do so in DEEP SPACE ZONES only.
-###
-Carrack Cruiser (CRAK)
+
+### Carrack Cruiser (CRAK)
 Cost: 350 KCs
 Production time: 3 Days
 Length: 350 meters
@@ -321,8 +320,8 @@ Onboard Units:
 External Units:
 1 TIE Starfighter Squadron
 Notes: Can enter the atmosphere and make planetary landings. The Carrack's sturdy design and system redundancies make it one of the most well constructed capital ships in the galaxy. Reports of space battle survivors living aboard wreckage is a testament to the Carrack's hull integrity and life support systems - even if the ship has long been destroyed.  
-###
-Imperial Escort Carrier (ESC)
+
+### Imperial Escort Carrier (ESC)
 Cost: 500 KCs
 Production time: 5 Days
 Length: 500 meters
@@ -340,8 +339,8 @@ Onboard Units:
 6 TIE Starfighter Squadrons
 2 Auxiliary Craft
 Notes: Limited to (2) per Fleet max.
-###
-StarGalleon Assault Frigate (SGAF)
+
+### StarGalleon Assault Frigate (SGAF)
 Cost: 300 KCs
 Production time: 3 Days
 Length: 300 meters
@@ -359,8 +358,8 @@ Onboard Units:
 12 Auxiliary Transports
 240 Stormtrooper Squads
 Notes: Can enter atmosphere and make planetary landings. Essentially designed to be one big stormtrooper transport, SGAF's are often overlooked but can help a fleet top off its ground assault or AUX support capabilities.
-###
-Lancer Frigate (LANF)
+
+### Lancer Frigate (LANF)
 Cost: 250 KCs
 Production time: 2 Days
 Length: 250 meter
@@ -378,8 +377,7 @@ Onboard Units:
 2 Lambda-class Shuttles
 Notes: Due to specialized weapons targeting computers, the Lancer gets +1 UCR when attacking Starfighters.
 
-###
-IPV-1 Imperial Patrol Vessel (IPV-1)
+### IPV-1 Imperial Patrol Vessel (IPV-1)
 Cost: FREE
 Production time: 7 Days
 Command Points: 1
@@ -397,8 +395,8 @@ Weapons:
 Notes: Stock unit for PDF purposes; free cost is offset by lengthy production time.
 
 ## Auxiliary Craft
-###
-Skipray Blastboat (SKIP)
+
+### Skipray Blastboat (SKIP)
 Cost: 40 KCs
 Production time: 1 day
 Length: 25 meters
@@ -414,8 +412,7 @@ Weapons:
 1 Concussion Missile Launcher (2)
 Notes: Can perform Bombing Runs.
 
-###
-Gamma-class Assault Shuttle (GAS)
+### Gamma-class Assault Shuttle (GAS)
 Cost: 60 KCs
 Production Time: 1 Day
 Length: 30 meters
@@ -433,8 +430,7 @@ Onboard Units:
 5 Infantry Squads
 Notes: Gamma-class Shuttle provides multi-role support as well as improved boarding capability over the Stormtrooper Transport.
 
-###
-Imperial Landing Barge (L/BARGE)
+### Imperial Landing Barge (L/BARGE)
 Cost: 100 KCs
 Production Time: 1 day
 Length: 100 meters
@@ -450,8 +446,7 @@ Passenger Capacity:
 6 GAVs
 Notes: Takes damage like a capital ship.
 
-###
-Stormtrooper Transport (STORM)
+### Stormtrooper Transport (STORM)
 Cost: 50 KCs
 Production time: 1 Day
 Length: 20 meters
@@ -467,8 +462,8 @@ Weapons:
 Onboard Units:
 3 Infantry Squads
 Notes: Although lacking the firepower of its bigger brothers, Stormtrooper Transports feature boosted shields for more combat durability, making them the go-to Auxiliary for rapid support.
-###
-Sentinel-class Landing Shuttle (SENT)
+
+### Sentinel-class Landing Shuttle (SENT)
 Cost: 60 KCs
 Production time: 1 Day
 Length: 40 meters
@@ -485,8 +480,7 @@ Onboard Units:
 5 Infantry Squads
 5 Speeder Bikes
 
-###
-Lambda-class Shuttle (L/SHU)
+### Lambda-class Shuttle (L/SHU)
 Cost: FREE
 Production Time: 7 days
 Length: 20 meters
